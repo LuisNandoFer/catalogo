@@ -1,0 +1,26 @@
+<article class="product-card">
+
+  <a
+    href="{{ product.url | relative_url }}"
+    aria-label="Ver {{ product.name }}">
+    <img
+      src="{{ product.image | relative_url }}"
+      alt="{{ product.name}}"
+      loading="lazy"
+    >
+  </a>
+  <h2>
+    <a href="{{ product.url | relative_url }}">
+      {{ product.name }}
+    </a>
+  </h2>
+
+  <p>{{ product.price }} {{ site.currency }}</p>
+  
+  {% if product.available %}
+    <p>Disponible</p>
+  {% else %}
+    <p>No disponible</p>
+  {% endif %}
+  
+</article>

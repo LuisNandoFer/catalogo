@@ -1,6 +1,7 @@
 
 title: Catálogo
 description: Catálogo de productos
+currency: "GTQ"
 baseurl: "/catalogo"
 url: "https://luisnandofer.github.io"
 permalink: pretty

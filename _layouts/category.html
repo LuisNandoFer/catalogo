@@ -6,11 +6,8 @@ layout: default
 
 {% for product in site.products %}
   {% if product.categories contains page.identifier %}
-    <a href="{{ product.url | relative_url }}">
-      {{ product.name }}
-    </a>
-    <p>{{ product.price }}</p>
+
+    {% include product-card.html %}
 
   {% endif %}
-
 {% endfor %}

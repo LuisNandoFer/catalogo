@@ -4,7 +4,7 @@ name: "Uva"
 price: 15
 description: "Fruta jugosa en racimos."
 image: "/assets/images/uva.jpg"
-available: true
+available: false
 categories:
   - frutas
   - postres
