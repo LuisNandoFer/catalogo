@@ -1,0 +1,14 @@
+---
+layout: default
+title: Categorías
+---
+<h1>{{ page.title }}</h1>
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="{{ category.url | relative_url }}">
+        {{ category.name }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

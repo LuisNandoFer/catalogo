@@ -3,6 +3,16 @@ title: Catálogo
 description: Catálogo de productos
 baseurl: "/catalogo"
 url: "https://luisnandofer.github.io"
+permalink: pretty
 collections:
   products:
     output: true
+  categories:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
+     
