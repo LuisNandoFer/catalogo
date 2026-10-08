@@ -1,4 +1,4 @@
 ---
-id: frutas
+identifier: frutas
 name: "Frutas"
 ---

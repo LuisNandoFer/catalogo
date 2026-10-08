@@ -1,4 +1,4 @@
 ---
-id: panaderia
+identifier: panaderia
 name: "Panadería y Granos"
 ---

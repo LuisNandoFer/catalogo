@@ -1,5 +1,5 @@
 ---
-id: mandarina
+identifier: mandarina
 name: "Mandarina"
 price: 10
 description: "Cítrico dulce y fácil de pelar."

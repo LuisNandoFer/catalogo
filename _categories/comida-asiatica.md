@@ -1,4 +1,4 @@
 ---
-id: comida-asiatica
+identifier: comida-asiatica
 name: "Comida Asiática y Varios"
 ---

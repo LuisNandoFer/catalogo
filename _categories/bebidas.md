@@ -1,4 +1,4 @@
 ---
-id: bebidas
+identifier: bebidas
 name: "Bebidas"
 ---

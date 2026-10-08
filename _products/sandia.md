@@ -1,5 +1,5 @@
 ---
-id: sandia
+identifier: sandia
 name: "Sandía"
 price: 30
 description: "Fruta grande y refrescante ideal para climas cálidos."

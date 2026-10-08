@@ -1,4 +1,4 @@
 ---
-id: comida-rapida
+identifier: comida-rapida
 name: "Comida Rápida y Bocadillos"
 ---

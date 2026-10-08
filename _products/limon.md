@@ -1,5 +1,5 @@
 ---
-id: limon
+identifier: limon
 name: "Limón"
 price: 8
 description: "Fruta cítrica ácida muy usada en bebidas y comidas."

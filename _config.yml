@@ -15,4 +15,9 @@ defaults:
       type: "categories"
     values:
       layout: "category"
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
      

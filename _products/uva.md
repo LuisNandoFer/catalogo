@@ -1,5 +1,5 @@
 ---
-id: uva
+identifier: uva
 name: "Uva"
 price: 15
 description: "Fruta jugosa en racimos."
