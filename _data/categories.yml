@@ -1,0 +1,29 @@
+- id: frutas
+  name: "Frutas"
+
+- id: postres
+  name: "Postres y Dulces"
+
+- id: verduras
+  name: "Verduras y Vegetales"
+
+- id: comida-rapida
+  name: "Comida Rápida y Bocadillos"
+
+- id: especias
+  name: "Especias y Varios"
+
+- id: panaderia
+  name: "Panadería y Granos"
+
+- id: platos-principales
+  name: "Platos Principales y Carnes"
+
+- id: comida-asiatica
+  name: "Comida Asiática y Varios"
+
+- id: bebidas
+  name: "Bebidas"
+
+- id: utensilios
+  name: "Utensilios y Varios"
